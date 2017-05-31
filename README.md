@@ -58,9 +58,18 @@ photoP <- read_csv("C:/Users/Blackcross/Downloads/photoP.csv",
 資料處理與清洗
 --------------
 
-說明處理資料的步驟
+大多都先用Excel作整理 也沒有缺值
 
 處理資料
+
+``` r
+#這是R Code Chunk
+```
+
+探索式資料分析
+--------------
+
+圖文並茂圖文並茂
 
 ``` r
 #這是R Code Chunk
@@ -122,14 +131,7 @@ arrange(desc(nlocation))
     ## 10   樹林區        12
     ## # ... with 18 more rows
 
-探索式資料分析
---------------
-
-圖文並茂圖文並茂
-
-``` r
-#這是R Code Chunk
-```
-
 期末專題分析規劃
 ----------------
+
+希望能加上酒駕、及其他事故的種類
